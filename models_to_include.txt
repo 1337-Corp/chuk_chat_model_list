@@ -1,0 +1,15 @@
+alibaba/tongyi-deepresearch-30b-a3b
+deepseek/deepseek-chat-v3.1
+deepseek/deepseek-r1-0528
+deepseek/deepseek-v3.2-exp
+moonshotai/kimi-k2-0905
+qwen/qwen3-32b
+qwen/qwen3-coder
+qwen/qwen3-next-80b-a3b-instruct
+qwen/qwen3-next-80b-a3b-thinking
+qwen/qwen3-vl-235b-a22b-instruct
+qwen/qwen3-vl-235b-a22b-thinking
+qwen/qwen3-vl-30b-a3b-instruct
+qwen/qwen3-vl-30b-a3b-thinking
+thedrummer/cydonia-24b-v4.1
+z-ai/glm-4.6
